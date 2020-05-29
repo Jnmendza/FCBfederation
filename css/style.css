@@ -430,16 +430,16 @@ a.icon {
 }
 
 .header-one {
-  background: url('../images/sandiego.jpg') no-repeat;
+  background: url('https://i.imgur.com/gz9yGmG.jpg') no-repeat;
   height: 60vh !important;
   min-height: 520px;
   padding-top: 150px !important;
 }
 .header-two {
-  background: url('../images/bg-colors.jpg') no-repeat;
+  background: url('https://i.imgur.com/wL2m0md.jpg') no-repeat;
 }
 .header-three {
-  background: url('../images/bg.jpg') no-repeat;
+  background: url('https://i.imgur.com/stjgUuY.jpg') no-repeat;
 }
 .header-four {
   background: url('../images/header-four-bg.jpg') no-repeat;
